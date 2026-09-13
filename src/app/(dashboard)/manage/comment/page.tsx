@@ -1,7 +1,7 @@
 import React from "react";
 
 const page = () => {
-  return <div>Khám phá</div>;
+  return <div>Quan ly binh luan</div>;
 };
 
 export default page;
